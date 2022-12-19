@@ -1,0 +1,40 @@
+body {
+    font-family: 'Helvetica Neue', serif;
+    color: rgb(10, 10, 10);
+    padding-left: 7%;
+    padding-right: 9%;
+    background-color: #d3d3d3;
+}
+header {
+    font-size: larger;
+    background-image: url(../images/bbc_news_120x60.gif);
+    background-repeat: no-repeat;
+    padding-bottom: 1em;
+    padding-left: 7em;
+}
+section {
+    background-color: #ffffff;
+    border: 1.5px solid #000000;
+    margin-bottom: 2em;
+    padding: 10px;
+}
+footer {
+    margin-top: 1.5rem;
+    border-top: 1px solid #000000;
+    font-size: smaller;
+    padding: 0.5rem;
+}
+em {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    color:#5f5c5c;
+}
+a:link, a:visited, a:active {
+    text-decoration: none;
+    color: #b90005;
+}
+a:hover {
+    text-decoration: underline;
+    background-color: #b90005;
+    color: #ffffff;
+}
